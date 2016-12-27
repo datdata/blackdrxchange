@@ -1,0 +1,1 @@
+[18-Nov-2016 10:09:12 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/levellb/public_html/drx/wp-content/themes/docdirect/index.php on line 14

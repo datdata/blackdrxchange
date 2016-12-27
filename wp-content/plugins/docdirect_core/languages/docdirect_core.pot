@@ -1,0 +1,505 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DocDirect Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jul 12 2016 15:24:49 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"POT-Revision-Date: Tue Jul 12 2016 15:25:06 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: admin <Aamirshahzad2009@live.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_GB\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "DocDirect Core"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themographics.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin is used for creating custom post types and other functionality "
+"for Docdirect Theme"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themographics"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/themographics"
+msgstr ""
+
+#: ../class_docdirect_core.php:84
+msgid "DocDirect"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:30 ../core/post-
+#: types/directory_packages.php:31
+msgid "Packages"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:32 ../core/post-types/invoices.php:
+#: 79 ../core/post-types/invoices.php:211 ../core/post-types/orders.php:75 ..
+#: /core/post-types/orders.php:210
+msgid "Package"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:33
+msgid "Add Package"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:34
+msgid "Add New Package"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:35 ../core/post-
+#: types/directory_types.php:33 ../core/post-types/invoices.php:37 ../core/post-
+#: types/orders.php:37 ../core/post-types/reviews.php:38
+msgid "Edit"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:36
+msgid "Edit Package"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:37
+msgid "New Package"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:38 ../core/post-
+#: types/directory_packages.php:39
+msgid "View Package"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:40
+msgid "Search Package"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:41
+msgid "No Package found"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:42
+msgid "No Package found in trash"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:43
+msgid "Parent Package"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:47
+msgid "This is where you can add new Package"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:74 ../core/post-types/invoices.php:
+#: 82 ../core/post-types/orders.php:78
+msgid "Price"
+msgstr ""
+
+#: ../core/post-types/directory_packages.php:75
+msgid "Duration"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:28 ../core/post-types/directory_types.
+#: php:29
+msgid "Directory Types"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:30
+msgid "Directory Type"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:31
+msgid "Add Directory Type"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:32
+msgid "Add New Directory Type"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:34
+msgid "Edit Directory Type"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:35
+msgid "New Directory Type"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:36 ../core/post-types/directory_types.
+#: php:37
+msgid "View Directory Type"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:38
+msgid "Search Directory Type"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:39
+msgid "No Directory Type found"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:40
+msgid "No Directory Type found in trash"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:41
+msgid "Parent Directory Type"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:45
+msgid "This is where you can add new Directory Type"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:63 ../core/post-types/directory_types.
+#: php:64 ../core/post-types/directory_types.php:73
+msgid "Locations"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:65
+msgid "Search Location"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:66
+msgid "All Location"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:67
+msgid "Parent Location"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:68
+msgid "Parent Location:"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:69
+msgid "Edit Location"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:70
+msgid "Update Location"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:71
+msgid "Add New Location"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:72
+msgid "New Location Name"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:87 ../core/post-types/directory_types.
+#: php:88 ../core/post-types/directory_types.php:97
+msgid "Specialities"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:89
+msgid "Search Speciality"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:90
+msgid "All Speciality"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:91
+msgid "Parent Speciality"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:92
+msgid "Parent Speciality:"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:93
+msgid "Edit Speciality"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:94
+msgid "Update Speciality"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:95
+msgid "Add New Speciality"
+msgstr ""
+
+#: ../core/post-types/directory_types.php:96
+msgid "New Speciality Name"
+msgstr ""
+
+#: ../core/post-types/invoices.php:32 ../core/post-types/invoices.php:33
+msgid "Invoices"
+msgstr ""
+
+#: ../core/post-types/invoices.php:34
+msgid "Invoice"
+msgstr ""
+
+#: ../core/post-types/invoices.php:35
+msgid "Add Invoice"
+msgstr ""
+
+#: ../core/post-types/invoices.php:36
+msgid "Add New Invoice"
+msgstr ""
+
+#: ../core/post-types/invoices.php:38
+msgid "Edit Invoice"
+msgstr ""
+
+#: ../core/post-types/invoices.php:39
+msgid "New Invoice"
+msgstr ""
+
+#: ../core/post-types/invoices.php:40 ../core/post-types/invoices.php:41
+msgid "View Invoice"
+msgstr ""
+
+#: ../core/post-types/invoices.php:42
+msgid "Search Invoice"
+msgstr ""
+
+#: ../core/post-types/invoices.php:43
+msgid "No Invoice found"
+msgstr ""
+
+#: ../core/post-types/invoices.php:44
+msgid "No Invoice found in trash"
+msgstr ""
+
+#: ../core/post-types/invoices.php:45
+msgid "Parent Invoice"
+msgstr ""
+
+#: ../core/post-types/invoices.php:80 ../core/post-types/invoices.php:223 ..
+#: /core/post-types/orders.php:76
+msgid "Payment Method"
+msgstr ""
+
+#: ../core/post-types/invoices.php:81 ../core/post-types/invoices.php:240 ..
+#: /core/post-types/orders.php:77 ../core/post-types/orders.php:227
+msgid "User"
+msgstr ""
+
+#: ../core/post-types/invoices.php:133
+msgid "INVOICE INFO"
+msgstr ""
+
+#: ../core/post-types/invoices.php:144
+msgid "INVOICE DETAIL"
+msgstr ""
+
+#: ../core/post-types/invoices.php:184 ../core/post-types/invoices.php:185 ..
+#: /core/post-types/invoices.php:186 ../core/post-types/invoices.php:187 ..
+#: /core/post-types/invoices.php:188 ../core/post-types/invoices.php:189 ..
+#: /core/post-types/invoices.php:190 ../core/post-types/invoices.php:191 ..
+#: /core/post-types/invoices.php:192 ../core/post-types/invoices.php:193 ..
+#: /core/post-types/invoices.php:194 ../core/post-types/invoices.php:195 ..
+#: /core/post-types/invoices.php:196 ../core/post-types/invoices.php:197 ..
+#: /core/post-types/invoices.php:198 ../core/post-types/invoices.php:200 ..
+#: /core/post-types/invoices.php:258 ../core/post-types/orders.php:165 ..
+#: /core/post-types/orders.php:166 ../core/post-types/orders.php:167 ../core/post-
+#: types/orders.php:168 ../core/post-types/orders.php:170 ../core/post-
+#: types/orders.php:171 ../core/post-types/orders.php:172 ../core/post-
+#: types/orders.php:179 ../core/post-types/orders.php:180 ../core/post-
+#: types/orders.php:181 ../core/post-types/orders.php:182 ../core/post-
+#: types/orders.php:183 ../core/post-types/orders.php:184 ../core/post-
+#: types/orders.php:185 ../core/post-types/orders.php:186 ../core/post-
+#: types/orders.php:187 ../core/post-types/orders.php:188 ../core/post-
+#: types/reviews.php:100
+msgid "NILL"
+msgstr ""
+
+#: ../core/post-types/invoices.php:207 ../core/post-types/orders.php:198
+msgid "Transaction ID"
+msgstr ""
+
+#: ../core/post-types/invoices.php:215
+msgid "Payment Amount"
+msgstr ""
+
+#: ../core/post-types/invoices.php:219 ../core/post-types/orders.php:202
+msgid "Payment Status"
+msgstr ""
+
+#: ../core/post-types/invoices.php:227
+msgid "Payment Date"
+msgstr ""
+
+#: ../core/post-types/invoices.php:231
+msgid "Payer Name"
+msgstr ""
+
+#: ../core/post-types/invoices.php:235
+msgid "Payer Address"
+msgstr ""
+
+#: ../core/post-types/invoices.php:241 ../core/post-types/orders.php:228 ..
+#: /core/post-types/reviews.php:117
+msgid "Click for user details"
+msgstr ""
+
+#: ../core/post-types/invoices.php:264
+msgid "Invoice ID"
+msgstr ""
+
+#: ../core/post-types/orders.php:32 ../core/post-types/orders.php:33
+msgid "Orders"
+msgstr ""
+
+#: ../core/post-types/orders.php:34
+msgid "Order"
+msgstr ""
+
+#: ../core/post-types/orders.php:35
+msgid "Add Order"
+msgstr ""
+
+#: ../core/post-types/orders.php:36
+msgid "Add New Order"
+msgstr ""
+
+#: ../core/post-types/orders.php:38
+msgid "Edit Order"
+msgstr ""
+
+#: ../core/post-types/orders.php:39
+msgid "New Order"
+msgstr ""
+
+#: ../core/post-types/orders.php:40 ../core/post-types/orders.php:41
+msgid "View Order"
+msgstr ""
+
+#: ../core/post-types/orders.php:42
+msgid "Search Order"
+msgstr ""
+
+#: ../core/post-types/orders.php:43
+msgid "No Order found"
+msgstr ""
+
+#: ../core/post-types/orders.php:44
+msgid "No Order found in trash"
+msgstr ""
+
+#: ../core/post-types/orders.php:45
+msgid "Parent Order"
+msgstr ""
+
+#: ../core/post-types/orders.php:134
+msgid "ORDER INFO"
+msgstr ""
+
+#: ../core/post-types/orders.php:194
+msgid "Order ID"
+msgstr ""
+
+#: ../core/post-types/orders.php:206
+msgid "Payment Option"
+msgstr ""
+
+#: ../core/post-types/orders.php:214
+msgid "Package Price"
+msgstr ""
+
+#: ../core/post-types/orders.php:218
+msgid "Purchase Date"
+msgstr ""
+
+#: ../core/post-types/orders.php:222
+msgid "Expiry Date"
+msgstr ""
+
+#: ../core/post-types/reviews.php:33 ../core/post-types/reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: ../core/post-types/reviews.php:35
+msgid "Review"
+msgstr ""
+
+#: ../core/post-types/reviews.php:36
+msgid "Add Review"
+msgstr ""
+
+#: ../core/post-types/reviews.php:37
+msgid "Add New Review"
+msgstr ""
+
+#: ../core/post-types/reviews.php:39
+msgid "Edit Review"
+msgstr ""
+
+#: ../core/post-types/reviews.php:40
+msgid "New Review"
+msgstr ""
+
+#: ../core/post-types/reviews.php:41 ../core/post-types/reviews.php:42
+msgid "View Review"
+msgstr ""
+
+#: ../core/post-types/reviews.php:43
+msgid "Search Review"
+msgstr ""
+
+#: ../core/post-types/reviews.php:44
+msgid "No Review found"
+msgstr ""
+
+#: ../core/post-types/reviews.php:45
+msgid "No Review found in trash"
+msgstr ""
+
+#: ../core/post-types/reviews.php:46
+msgid "Parent Review"
+msgstr ""
+
+#: ../core/post-types/reviews.php:78
+msgid "REVIEW INFO"
+msgstr ""
+
+#: ../core/post-types/reviews.php:107
+msgid "Review Subject"
+msgstr ""
+
+#: ../core/post-types/reviews.php:111 ../core/post-types/reviews.php:131
+msgid "Rating"
+msgstr ""
+
+#: ../core/post-types/reviews.php:116
+msgid "Review User"
+msgstr ""
+
+#: ../core/post-types/reviews.php:129
+msgid "User From"
+msgstr ""
+
+#: ../core/post-types/reviews.php:130
+msgid "User To"
+msgstr ""
+
+#: ../hooks/hooks.php:16 ../hooks/hooks.php:17
+msgid "Import User"
+msgstr ""
+
+#: ../shortcodes/class-slider.php:24
+msgid "Oops! No data Found."
+msgstr ""
